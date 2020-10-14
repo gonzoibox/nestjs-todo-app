@@ -2,9 +2,10 @@
   "name": "todo-app-nestjs",
   "version": "1.0.0",
   "engines": {
-    "node": "12.x"
+    "node": "14.13.1",
+    "npm": "6.14.8"
   },
-  "description": "",
+  "description": "backend-nestjs-todo-app",
   "author": "anton davidovich",
   "license": "MIT",
   "scripts": {
