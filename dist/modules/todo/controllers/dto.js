@@ -34,10 +34,6 @@ __decorate([
     __metadata("design:type", String)
 ], UpdateDto.prototype, "title", void 0);
 __decorate([
-    swagger_1.ApiProperty(),
-    __metadata("design:type", String)
-], UpdateDto.prototype, "position", void 0);
-__decorate([
     swagger_1.ApiProperty({
         required: false
     }),

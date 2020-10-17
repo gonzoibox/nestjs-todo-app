@@ -5,6 +5,5 @@ export declare class CreateDto {
 }
 export declare class UpdateDto {
     title: string;
-    position: string;
     isCompleted?: boolean;
 }
