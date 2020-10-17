@@ -18,6 +18,6 @@ export class Todo {
   isCompleted: boolean;
 
   @ApiProperty()
-  @Column()
+  @Column({default: -1})
   position: number;
 }
