@@ -14,8 +14,8 @@ export class CreateDto {
 export class UpdateDto {
   @ApiProperty()
   title: string;
-  // @ApiProperty()
-  // position: string;
+  @ApiProperty()
+  position: string;
   @ApiProperty({
     required: false
   })

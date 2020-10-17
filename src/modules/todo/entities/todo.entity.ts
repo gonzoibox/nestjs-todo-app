@@ -17,7 +17,7 @@ export class Todo {
   @Column({ default: false })
   isCompleted: boolean;
 
-  // @ApiProperty()
-  // @Column({default: -1})
-  // position: number;
+  @ApiProperty()
+  @Column({default: -1})
+  position: number;
 }
