@@ -3,6 +3,8 @@ import { ApiProperty } from '@nestjs/swagger';
 export class CreateDto {
   @ApiProperty()
   title: string;
+  @ApiProperty()
+  position: string;
   @ApiProperty({
     required: false
   })
@@ -12,6 +14,8 @@ export class CreateDto {
 export class UpdateDto {
   @ApiProperty()
   title: string;
+  @ApiProperty()
+  position: string;
   @ApiProperty({
     required: false
   })
