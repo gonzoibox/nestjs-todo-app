@@ -30,6 +30,11 @@ __decorate([
     typeorm_1.Column({ default: false }),
     __metadata("design:type", Boolean)
 ], Todo.prototype, "isCompleted", void 0);
+__decorate([
+    swagger_1.ApiProperty(),
+    typeorm_1.Column({ default: -1 }),
+    __metadata("design:type", Number)
+], Todo.prototype, "position", void 0);
 Todo = __decorate([
     typeorm_1.Entity()
 ], Todo);

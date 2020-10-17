@@ -18,7 +18,7 @@ __decorate([
 ], CreateDto.prototype, "title", void 0);
 __decorate([
     swagger_1.ApiProperty(),
-    __metadata("design:type", String)
+    __metadata("design:type", Number)
 ], CreateDto.prototype, "position", void 0);
 __decorate([
     swagger_1.ApiProperty({
@@ -33,6 +33,10 @@ __decorate([
     swagger_1.ApiProperty(),
     __metadata("design:type", String)
 ], UpdateDto.prototype, "title", void 0);
+__decorate([
+    swagger_1.ApiProperty(),
+    __metadata("design:type", Number)
+], UpdateDto.prototype, "position", void 0);
 __decorate([
     swagger_1.ApiProperty({
         required: false

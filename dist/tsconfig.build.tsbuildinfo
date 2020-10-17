@@ -2338,8 +2338,8 @@
         "signature": "70aecfd981af29d74ba7ab6667b9cc2a53459d8eb099c139fd2aa54c3059c71d"
       },
       "../src/modules/todo/entities/todo.entity.ts": {
-        "version": "326472b10b8d19ea36f7f68cbb07132b9a93c696c58888ddb8f9b4196dd191ce",
-        "signature": "e25c1a36d55e3d84b660082d65891b6e6ae00a73cac86492a1a09dea5d0daca6"
+        "version": "c6184de3751ae724670c9300a5f74689fbe5dcbade25b243a9e124bff562f0f3",
+        "signature": "2112f4a3b140c7f5d1760b3a7fbb19d65280ee7223f198ff252c6dd88aa399ac"
       },
       "../node_modules/@nestjsx/crud-request/lib/exceptions/request-query.exception.d.ts": {
         "version": "15064948710d921d7a28bf8c6714f7dc56ebf093ec721a9e4ad9b3aed605cdcc",
@@ -2794,8 +2794,8 @@
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../src/modules/todo/controllers/dto.ts": {
-        "version": "0a35801e8c535b1bb84d5dd7a7cec8e8ec07f08df36888ce124e39105e05f389",
-        "signature": "ec02e0c132afea91cb7e15191a01228806833936bb3078a0bc0ae0134130a232"
+        "version": "b3ba003a006d554e483bf1e6f19378163cc12acd979b826c5dd564ef183dac8d",
+        "signature": "f0cce9a2ef9ae4388ac763a185d8b4d90cd17df43dc5f05801034f61ca5e241b"
       },
       "../src/modules/todo/controllers/type.ts": {
         "version": "837e6d9845fa0f9227fe6c2f060aa32f9905deb7c0b1ea397b107160ea2b8f36",

@@ -4,7 +4,7 @@ export class CreateDto {
   @ApiProperty()
   title: string;
   @ApiProperty()
-  position: string;
+  position: number;
   @ApiProperty({
     required: false
   })
@@ -15,7 +15,7 @@ export class UpdateDto {
   @ApiProperty()
   title: string;
   @ApiProperty()
-  position: string;
+  position: number;
   @ApiProperty({
     required: false
   })
